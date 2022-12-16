@@ -1,0 +1,105 @@
+Mensagens:
+  RankUP: "§6§l⠂§c§l!§6§lゞ §fO Ninja §e{player} §facabou de subir para o rank {rank}§f, \n§fparabéns... :sparkles:"
+  Sem_Status: "§6§l• §c§l!§6§lゞ §cVocê §4§lnão §cpossui os requisitos para subir de rank!"
+  Rank_Removido: "§6§l• §c§l!§6§lゞ §fO Ninja §e{player} §facabou de perder o rank {rank}§f."
+
+Inventario:
+  Nome: "§bAdventure Ranks"
+  Tamanho: 3
+
+Ranks:
+  Genin:
+    Nome: "Genin"
+    Prefix: "§cGenin"
+    ItemID: 1
+    Slot: 10
+    Lore:
+      - "§7Status mínimos para upar o rank:"
+      - " "
+      - "§fSTR: §7500"
+      - "§fCON: §7500"
+      - "§fWIL: §7250"
+      - "§fSPI: §7400"
+    Atributos:
+      STR: 500
+      CON: 500
+      WIL: 250
+      SPI: 400
+    Comandos:
+      - ""
+  Chunin:
+    Nome: "Chunin"
+    Prefix: "§aChunin"
+    ItemID: 2
+    Slot: 11
+    Lore:
+      - "§7Status mínimos para upar o rank:"
+      - " "
+      - "§fSTR: §71000"
+      - "§fCON: §71000"
+      - "§fWIL: §7750"
+      - "§fSPI: §7800"
+    Atributos:
+      STR: 1000
+      CON: 1000
+      WIL: 750
+      SPI: 800
+    Comandos:
+      - ""
+  Jounin:
+    Nome: "Jounin"
+    Prefix: "§2Jounin"
+    ItemID: 3
+    Slot: 12
+    Lore:
+      - "§7Status mínimos para upar o rank:"
+      - " "
+      - "§fSTR: §71600"
+      - "§fCON: §71100"
+      - "§fWIL: §7850"
+      - "§fSPI: §71000"
+    Atributos:
+      STR: 1600
+      CON: 1100
+      WIL: 850
+      SPI: 1000
+    Comandos:
+      - ""
+  Anbu:
+    Nome: "Anbu"
+    Prefix: "§8Anbu"
+    ItemID: 4
+    Slot: 13
+    Lore:
+      - "§7Status mínimos para upar o rank:"
+      - " "
+      - "§fSTR: §72700"
+      - "§fCON: §72000"
+      - "§fWIL: §71950"
+      - "§fSPI: §72000"
+    Atributos:
+      STR: 2700
+      CON: 2000
+      WIL: 1950
+      SPI: 2000
+    Comandos:
+      - ""
+  Nukenin:
+    Nome: "Nukenin"
+    Prefix: "§5Nukenin"
+    ItemID: 5
+    Slot: 14
+    Lore:
+      - "§7Status mínimos para upar o rank:"
+      - " "
+      - "§fSTR: §72700"
+      - "§fCON: §72000"
+      - "§fWIL: §71950"
+      - "§fSPI: §72000"
+    Atributos:
+      STR: 2700
+      CON: 2000
+      WIL: 1950
+      SPI: 2000
+    Comandos:
+      - ""

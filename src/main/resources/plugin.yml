@@ -1,0 +1,14 @@
+name: Adventure-Ranks
+version: 1.0
+main: me.ry4nn00b.Main
+authors: [ Ry4nN00B ]
+description: Plugin de Ranks.
+softdepend: [Legendchat, Vault, MVdWPlaceholderAPI]
+
+commands:
+  ranks:
+    description: §aAbre o menu de Ranks.
+  setrank:
+    description: §aUsado para setar um rank!
+  remrank:
+    description: §aUsado para remover um rank!
